@@ -1,0 +1,16 @@
+e7fea08d8ee71d248ed6e9cbd069f254 05b90dd5517e4a5d2bf8c7a50418562b ffffffffffffffffffffffffffffffff 102 /Users/rin/BitTime/build/Release/BitTime.app
+00000000477f5186000000000000038b 7547d221f73324436062c1749e69896d ffffffffffffffffffffffffffffffff 8 /Users/rin/BitTime/build/Release/BitTime.app/Contents/PkgInfo
+00000000477f5186000000000000038b 7547d221f73324436062c1749e69896d ffffffffffffffffffffffffffffffff 888 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Info.plist
+000000004676066a000000000003594a e28484fb1281ede109d65e8e89ebf6c0 ffffffffffffffffffffffffffffffff 9612 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/bittime.o
+000000004676066a000000000003594a 4a6162d466dfa7da9fe8ecec08e3eb3c ffffffffffffffffffffffffffffffff 11480 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/bittime.o
+00000000010009770000000000036da8 2c573bbb3919f14436cdc513561d5280 ffffffffffffffffffffffffffffffff 404 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/main.o
+00000000010009770000000000036da8 74bcc376c13f095db206e371a0b55c27 ffffffffffffffffffffffffffffffff 572 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/main.o
+cdd136072713d92ffc5da11b0f8f8fd2 0f656278838b2d30c52ccd154549c250 ffffffffffffffffffffffffffffffff 47208 /Users/rin/BitTime/build/Release/BitTime.app/Contents/MacOS/BitTime
+ced3bf406ceb1b6a3f1b9b9ddff6f219 930be80567d21af6dd563951eb8ce0c5 ffffffffffffffffffffffffffffffff 22632 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/BitTime
+3edda1a2e093a9482dee0f9da856e140 aed4c0e0ccb971fb33fe0c4a93a37c4e ffffffffffffffffffffffffffffffff 18668 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/BitTime
+00000000000000000000000000000000 76062f872dd6e61e694846e95e0ae5cb ffffffffffffffffffffffffffffffff 70580 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/BT.icns
+00000000000000000000000000000000 918dc2302a499d70b87fc21787c41993 ffffffffffffffffffffffffffffffff 856810 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/alarm.aiff
+00000000000000000000000000000000 51c1d29caa0673590a95ee736b46733a ffffffffffffffffffffffffffffffff 447 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/Credits.rtf
+00000000000000000000000000000000 d78507d77912cc399be095dc4fdafd8b ffffffffffffffffffffffffffffffff 196 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 4485cc0efef42d35f7e57a9467fdcd3f ffffffffffffffffffffffffffffffff 170 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/MainMenu.nib
+ffffffffffffffffffffffffffffffff 0c1d645dc532f1ab756b1b99b309bb7f ffffffffffffffffffffffffffffffff 0 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/BitTime.app

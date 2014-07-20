@@ -1,0 +1,13 @@
+00754d3a8978664a5fe16d3509a70e0c 05b90dd5517e4a5d2bf8c7a50418562b ffffffffffffffffffffffffffffffff 102 /Users/rin/BitTime/build/Release/BitTime.app
+000000004778316a0000000000000382 7547d221f73324436062c1749e69896d ffffffffffffffffffffffffffffffff 8 /Users/rin/BitTime/build/Release/BitTime.app/Contents/PkgInfo
+000000004778316a0000000000000382 7547d221f73324436062c1749e69896d ffffffffffffffffffffffffffffffff 831 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Info.plist
+0000000046767a8b0000000000037f4b e28484fb1281ede109d65e8e89ebf6c0 ffffffffffffffffffffffffffffffff 8580 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/bittime.o
+0000000046767a8b0000000000037f4b 4a6162d466dfa7da9fe8ecec08e3eb3c ffffffffffffffffffffffffffffffff 10080 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/bittime.o
+00000000010009770000000000036da8 2c573bbb3919f14436cdc513561d5280 ffffffffffffffffffffffffffffffff 404 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/main.o
+00000000010009770000000000036da8 74bcc376c13f095db206e371a0b55c27 ffffffffffffffffffffffffffffffff 572 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/main.o
+cdd136072713d92ffc5da11b0f8f8fd2 0f656278838b2d30c52ccd154549c250 ffffffffffffffffffffffffffffffff 47000 /Users/rin/BitTime/build/Release/BitTime.app/Contents/MacOS/BitTime
+ced3bf406cfa38873f1b9b9ddff6d418 930be80567d21af6dd563951eb8ce0c5 ffffffffffffffffffffffffffffffff 22424 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/i386/BitTime
+3edda1a2e0828aa52dee0f9da856c741 aed4c0e0ccb971fb33fe0c4a93a37c4e ffffffffffffffffffffffffffffffff 18464 /Users/rin/BitTime/build/BitTime.build/Release/BitTime.build/Objects-normal/ppc/BitTime
+00000000000000000000000000000000 51c1d29caa0673590a95ee736b46733a ffffffffffffffffffffffffffffffff 386 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/Credits.rtf
+00000000000000000000000000000000 d78507d77912cc399be095dc4fdafd8b ffffffffffffffffffffffffffffffff 200 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 4485cc0efef42d35f7e57a9467fdcd3f ffffffffffffffffffffffffffffffff 170 /Users/rin/BitTime/build/Release/BitTime.app/Contents/Resources/English.lproj/MainMenu.nib
